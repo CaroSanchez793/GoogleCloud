@@ -1,6 +1,6 @@
-# Using Cloud Functions 
+# Using Cloud Functions with Python
 
-### Create a function
+### Function Creation
 
 ![Function Creation](img/01%20-%20Function%20Creation.png)
 
