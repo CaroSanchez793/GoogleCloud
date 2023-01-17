@@ -1,13 +1,13 @@
-# Webserver deploy with GCP Compute Engine
+# Webserver Deployment with GCP Compute Engine
 
 ### Virtual Machine Creation
 
-![Virtual Machine Creation](img/01%20-%20Webserver%20Creation.png)
+![Virtual Machine Creation](img/01%20_WebserverCreation.png)
 
 ### Webserver Deployment
 
-![Webserver deployment](img/02%20-%20Deploy%20Webserver.png)
+![Webserver deployment](img/02_DeployWebserver.png)
 
 ### SSH Console Connection
 
-![Connection](img/03%20-%20Console%20Connection.png)
+![Connection](img/03%20_ConsoleConnection.png)
