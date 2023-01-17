@@ -1,6 +1,6 @@
 # Deploy Cloud FileStore
 
-### Create an FileStore Instance
+### Create a FileStore Instance
 
 ![FileStore Instance](img/01_InstanceCreation.png)
 
