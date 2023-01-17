@@ -10,4 +10,4 @@
 
 ### SSH Console Connection
 
-![Connection](img/03%20_ConsoleConnection.png)
+![Connection](img/03_ConsoleConnection.png)
