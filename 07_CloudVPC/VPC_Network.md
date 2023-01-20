@@ -8,6 +8,6 @@
 
 ![Firewall Rule](img/02_FirewallRule.png)
 
-### Step 3: Asign the rule to an webserver instance in the new VPC 
+### Step 3: Asign the rule to a webserver instance in the new VPC 
 
 ![Instance](img/03_ApplyRuletoInstance.png)
